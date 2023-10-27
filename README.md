@@ -1,5 +1,14 @@
 ### Hi there 👋 I'm Shenfan
-- ⚡ Fun fact: ...
+🎓 I'm currently pursuing a Bachelor of Science in Computer Science from the University of Illinois Chicago, expected to graduate in May 2024.
+
+🛠 Skills:
+Languages: C/C++, C#, Java, Python, R, F#
+Software/Frameworks:Excel, Word and PowerPoint, SQLite
+
+📫 Get in touch:
+LinkedIn： https://www.linkedin.com/in/shenfan-feng-4006b6273/
+
+- ⚡ Fun fact: Aiyu is a cute cat
 <!--
 **Zayn407/Zayn407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
