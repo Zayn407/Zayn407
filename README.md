@@ -9,6 +9,7 @@ Software/Frameworks:MySQL, Linux, SQLite, Git, TensorFlow
 LinkedIn： https://www.linkedin.com/in/shenfan-feng-4006b6273/
 
 - ⚡ Fun fact: Aiyu is a cute cat
+![Aiyu](./C8524F17-13C9-47F1-935B-927A85BB724F_1_102_o.jpeg)
 <!--
 **Zayn407/Zayn407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
