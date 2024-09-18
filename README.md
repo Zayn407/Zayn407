@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Shenfan
-🎓 I'm currently pursuing a Bachelor of Science in Computer Science from the University of Illinois Chicago, expected to graduate in May 2024.
+🎓 I'm currently pursuing a Master of Science in Computer Science & Engineering at Ohio State University, with an expected graduation in January 2026.
 
 🛠 Skills:
-Languages: C/C++, C#, Java, Python, R, F#
-Software/Frameworks:Excel, Word and PowerPoint, SQLite
+Languages: C/C++, C#, Java, Python, R, F#, HTML/CSS, Javascript
+Software/Frameworks:MySQL, Linux, SQLite, Git, TensorFlow
 
 📫 Get in touch:
 LinkedIn： https://www.linkedin.com/in/shenfan-feng-4006b6273/
