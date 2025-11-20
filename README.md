@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Shenfan
-🎓 I'm currently pursuing a Master of Science in Computer Science & Engineering at Ohio State University, with an expected graduation in January 2026.
+🎓 I'm currently pursuing a Master of Science in Computer Science & Engineering at Ohio State University, with an expected graduation in May 2026.
 
 🛠 Skills:
 Languages: C/C++, C#, Java, Python, R, F#, HTML/CSS, Javascript
